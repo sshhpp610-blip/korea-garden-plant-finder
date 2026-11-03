@@ -1,0 +1,7 @@
+plant_id,scientific_name,korean_name,sun,moisture,soil,height_cm,flowering_start_month,flowering_end_month,purposes,native_status,data_source,data_confidence
+DEMO001,Aster koraiensis,벌개미취,full_sun,medium,loam,50,8,10,pollinator|long_bloom,native,DEMO_ONLY,unknown
+DEMO002,Iris ensata,꽃창포,full_sun,wet,loam,80,5,6,wetland|pollinator,native,DEMO_ONLY,unknown
+DEMO003,Hosta longipes,비비추,partial_shade,moist,loam,40,7,8,groundcover|shade,native,DEMO_ONLY,unknown
+DEMO004,Spiraea salicifolia,꼬리조팝나무,full_sun,moist,loam,150,6,8,pollinator|shrub,native,DEMO_ONLY,unknown
+DEMO005,Pennisetum alopecuroides,수크령,full_sun,medium,varied,90,8,10,grass|structure,native,DEMO_ONLY,unknown
+DEMO006,Inula britannica,금불초,full_sun,moist,clay,60,7,9,pollinator|wetland,native,DEMO_ONLY,unknown
